@@ -2,7 +2,9 @@
 
 [中文文档](./README_ZH.md) | English
 
-An intelligent dashboard for managing AI relay accounts with comprehensive features for usage tracking, cost management, and account optimization.
+RelayPilot is an extensible AI relay account management platform.
+
+It helps users manage multiple AI relay providers in one place, including balances, usage, costs, daily check-ins, rewards, and plugin-based integrations.
 
 ## 📋 Features
 
