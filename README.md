@@ -1,5 +1,7 @@
 # RelayPilot
 
+[中文文档](./README_ZH.md) | English
+
 An intelligent dashboard for managing AI relay accounts with comprehensive features for usage tracking, cost management, and account optimization.
 
 ## 📋 Features
